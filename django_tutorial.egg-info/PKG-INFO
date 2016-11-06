@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: django-tutorial
+Version: 0.0.0
+Summary: Mock library using python decorators
+Home-page: https://github.com/fhuertas/django_tuto
+Author: Francisco Huertas
+Author-email: pacohuertas@gmail.com
+License: Apache2
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Django :: 1.10

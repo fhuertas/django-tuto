@@ -1,0 +1,6 @@
+django_tutorial.egg-info/PKG-INFO
+django_tutorial.egg-info/SOURCES.txt
+django_tutorial.egg-info/dependency_links.txt
+django_tutorial.egg-info/requires.txt
+django_tutorial.egg-info/top_level.txt
+mysite/manage.py
